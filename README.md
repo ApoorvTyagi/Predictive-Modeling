@@ -15,8 +15,9 @@ Our aim is to predict the 'count' variable for the train data.
 The Evaluation metric for this project is Root Mean Squared Logarithmic Error (RMSLE). The RMSLE is calculated as: 
 <img src="Screenshot (148).png" style="width:50%;float:left">
 
-
-<u>We are saving our predictions into a new csv file as "final_result.csv"</u>
+<ul>
+ <li>We are saving our predictions into a new csv file as "final_result.csv"</li>
+<ul>
 
 ## 2. Term Deposit Subscription
 Term deposits are a major source of income for a bank.A term deposit is a cash investment held at a financial institution.Our money is 
@@ -35,4 +36,6 @@ Our aim is to predict the 'subscribed' variable for the train data.
 The Evaluation metric for this is the accuracy of our models.
 
 
-<u>We are saving our predictions into a new csv file as "my_submission.csv"</u>
+<ul>
+ <li>We are saving our predictions into a new csv file as "my_submission.csv"</li>
+<ul>
