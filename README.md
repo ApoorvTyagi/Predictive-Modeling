@@ -7,16 +7,16 @@ via a network of kiosk locations throughout a city.In this we are asked to combi
 to forecast hourly bike rental demand.
 
 Our train dataset conatains following variables:
-<img src="Screenshot(147).png" style="width:50%;float:left">
+<img src="Screenshot (147).png" style="width:50%;float:left">
 
 Our aim is to predict the 'count' variable for the train data.
 
 ###### Evaluation Metric:
 The Evaluation metric for this project is Root Mean Squared Logarithmic Error (RMSLE). The RMSLE is calculated as: 
-<img src="Screenshot(148).png" style="width:50%;float:left">
+<img src="Screenshot (148).png" style="width:50%;float:left">
 
 
-We are saving our predictions into a new csv file as "final_result.csv"
+<u>We are saving our predictions into a new csv file as "final_result.csv"</u>
 
 ## 2. Term Deposit Subscription
 Term deposits are a major source of income for a bank.A term deposit is a cash investment held at a financial institution.Our money is 
@@ -26,8 +26,8 @@ as the duration of the call, day and month of the call, etc. Given this informat
  
 
 Our train dataset conatains following variables:
-<img src="Screenshot(149).png" style="width:50%;float:left">
-<img src="Screenshot(150).png" style="width:50%;float:left">
+<img src="Screenshot (149).png" style="width:50%;float:left">
+<img src="Screenshot (150).png" style="width:50%;float:left">
 
 Our aim is to predict the 'subscribed' variable for the train data.
 
@@ -35,4 +35,4 @@ Our aim is to predict the 'subscribed' variable for the train data.
 The Evaluation metric for this is the accuracy of our models.
 
 
-We are saving our predictions into a new csv file as "my_submission.csv"
+<u>We are saving our predictions into a new csv file as "my_submission.csv"</u>
